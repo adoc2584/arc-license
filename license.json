@@ -1,7 +1,7 @@
 {
- "salt": "68a9ea8f1f3a7425",
- "hash": "9ed58f37b0157eab49f6a6b29c841e2cdee2f7c62a971d90381daccf15ef4a9a",
- "version": 2,
+ "salt": "aeae76a051348060",
+ "hash": "68cc2fa35b557201bd173c85afdcb0004aae1b87fc90d4e04354e6f02b0782cc",
+ "version": 3,
  "revoked": false,
- "message": "\u0627\u0647\u0640\u0640\u0640\u0644\u0627 \u0628\u064a\u0640\u0640\u0640\u0640\u0643 \u0641\u0649 \u0645\u0645\u0644\u0643\u0629 \u062a\u0640\u0640\u0640\u064a\u0645 \u0627\u0631\u0643\u0640\u0640\u0640\u0640\u0640\u0640"
+ "message": "Welcome to Arc Team Kingdom, Soldier"
 }
