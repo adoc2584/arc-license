@@ -1,7 +1,10 @@
 {
- "salt": "aeae76a051348060",
- "hash": "68cc2fa35b557201bd173c85afdcb0004aae1b87fc90d4e04354e6f02b0782cc",
- "version": 3,
+ "salt": "b2d767faf8832edf",
+ "hash": "d65c21c407bc3f98c37e984a149d7ad41df345ca162657bd7e6f5ec467c63ff0",
+ "version": 1,
  "revoked": false,
- "message": "Welcome to Arc Team Kingdom, Soldier"
+ "message": "welcome to Arc Team",
+ "expires": "01-11-2026",
+ "usage_url": "https://script.google.com/macros/s/AKfycbzXv95JwoQPHF1Osk5HAFW3-r9Kjn00qpdw4ECLrjN8IKPw7teOkCGrv-Nqex8jHcOD/exec",
+ "usage_key": "8q8c8aVzl3Q-qrbK"
 }
