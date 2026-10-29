@@ -1,10 +1,8 @@
 {
- "salt": "ece5656b662dd8b4",
- "hash": "5f8855ef31ba3d59bfe754ac7f55fa77a53a3e03879eab740d28c30038829776",
+ "salt": "57627956b72d7e1b",
+ "hash": "29a87fa29665f527503100c3266de24a726beb5d212523c8edf895d84692761e",
  "version": 1,
  "revoked": false,
  "message": "",
- "expires": "01-11-2026",
- "usage_url": "https://script.google.com/macros/s/AKfycbyrP4LMp-1TBSYwr_kyWWSNkYBxVeBTNJjyiGH52HJe5Iu_gqtRAmqxz09sxI8d1whU/exec",
- "usage_key": "ON490b32qQGsf-xV"
+ "expires": "02-11-2026"
 }
